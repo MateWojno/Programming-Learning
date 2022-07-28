@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\GitHub\\Programming-Learning\\Programming-Learning.csproj": {}
+    "C:\\Users\\MKW-lip-2021\\Documents\\MateWojno\\Programming-Learning\\Programming-Learning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\GitHub\\Programming-Learning\\Programming-Learning.csproj": {
+    "C:\\Users\\MKW-lip-2021\\Documents\\MateWojno\\Programming-Learning\\Programming-Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Programming-Learning\\Programming-Learning.csproj",
+        "projectUniqueName": "C:\\Users\\MKW-lip-2021\\Documents\\MateWojno\\Programming-Learning\\Programming-Learning.csproj",
         "projectName": "Programming-Learning",
-        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Programming-Learning\\Programming-Learning.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\Programming-Learning\\obj\\",
+        "projectPath": "C:\\Users\\MKW-lip-2021\\Documents\\MateWojno\\Programming-Learning\\Programming-Learning.csproj",
+        "packagesPath": "C:\\Users\\MKW-lip-2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MKW-lip-2021\\Documents\\MateWojno\\Programming-Learning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MKW-lip-2021\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
