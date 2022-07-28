@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void MyMethod()
+    static void Main()
     {
         //code 
     }
