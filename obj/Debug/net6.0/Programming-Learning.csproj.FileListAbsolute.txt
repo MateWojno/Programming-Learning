@@ -1,0 +1,15 @@
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\bin\Debug\net6.0\Programming-Learning.exe
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\bin\Debug\net6.0\Programming-Learning.deps.json
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\bin\Debug\net6.0\Programming-Learning.runtimeconfig.json
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\bin\Debug\net6.0\Programming-Learning.dll
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\bin\Debug\net6.0\Programming-Learning.pdb
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\Programming-Learning.csproj.AssemblyReference.cache
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\Programming-Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\Programming-Learning.AssemblyInfoInputs.cache
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\Programming-Learning.AssemblyInfo.cs
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\Programming-Learning.csproj.CoreCompileInputs.cache
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\Programming-Learning.dll
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\refint\Programming-Learning.dll
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\Programming-Learning.pdb
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\Programming-Learning.genruntimeconfig.cache
+C:\Users\MKW-lip-2021\Documents\MateWojno\Programming-Learning\obj\Debug\net6.0\ref\Programming-Learning.dll

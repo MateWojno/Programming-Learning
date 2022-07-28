@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//libraries needed installed;
+
+class Program
+{
+    static void MyMethod()
+    {
+        //code 
+    }
+}
